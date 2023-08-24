@@ -1,0 +1,1 @@
+"./calculator.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./HAL/KEYPAD/keypad.obj" "./HAL/LCD/lcd.obj" "./MCAL/GPIO/gpio.obj" "../tm4c123gh6pm.cmd" -llibc.a 
